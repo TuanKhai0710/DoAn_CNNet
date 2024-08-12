@@ -1,0 +1,244 @@
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe.config
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.pdb
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietDonHang.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhaCungCap.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.QuangCao.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmQLTK.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemKH.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemNV.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemTTCN.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Properties.Resources.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.GenerateResource.Cache
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.exe
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.pdb
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.HomeForm.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Kho.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhapKho.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.XuatKho.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.SanPham.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietSanPham.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ViTriCuaHang.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DangNhap.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang1.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.FormRP.resources
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\RdlCompile.cache
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\RdlCompile.compiled
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.CoreCompileInputs.cache
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.CopyComplete
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.AssemblyReference.cache
+D:\Semester V\dotnet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Frm_NhanVien.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe.config
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.pdb
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietDonHang.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietSanPham.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DangNhap.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang1.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.FormRP.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmQLTK.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemKH.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemNV.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemTTCN.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Frm_NhanVien.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.HomeForm.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Kho.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhaCungCap.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhapKho.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Properties.Resources.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.QuangCao.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.SanPham.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ViTriCuaHang.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.XuatKho.resources
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.GenerateResource.cache
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.CoreCompileInputs.cache
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.CopyComplete
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.exe
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.pdb
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.AssemblyReference.cache
+D:\Học Tập\Hk 5\.Net\DoAn\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThongKe.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe.config
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.pdb
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.AssemblyReference.cache
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietDonHang.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietSanPham.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DangNhap.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang1.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.FormRP.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmQLTK.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemKH.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemNV.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemTTCN.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThongKe.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Frm_NhanVien.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.HomeForm.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Kho.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhaCungCap.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhapKho.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Properties.Resources.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.QuangCao.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.SanPham.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ViTriCuaHang.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.XuatKho.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.GenerateResource.cache
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.CoreCompileInputs.cache
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.CopyComplete
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.exe
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.pdb
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe.config
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.pdb
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.AssemblyReference.cache
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietDonHang.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietSanPham.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DangNhap.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang1.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.FormRP.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmQLTK.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemKH.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemNV.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemTTCN.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThongKe.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Frm_NhanVien.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.HomeForm.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Kho.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhaCungCap.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhapKho.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Properties.Resources.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.QuangCao.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.SanPham.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ViTriCuaHang.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.XuatKho.resources
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.GenerateResource.cache
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\RdlCompile.cache
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\RdlCompile.compiled
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.CoreCompileInputs.cache
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.CopyComplete
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.exe
+D:\Semester V\dotnet\Nhom3\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.pdb
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe.config
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.pdb
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.AssemblyReference.cache
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietDonHang.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietSanPham.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DangNhap.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang1.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.FormRP.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmQLTK.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemKH.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemNV.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemTTCN.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThongKe.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Frm_NhanVien.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.HomeForm.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Kho.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhaCungCap.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhapKho.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Properties.Resources.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.QuangCao.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.SanPham.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ViTriCuaHang.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.XuatKho.resources
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.GenerateResource.cache
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\RdlCompile.cache
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\RdlCompile.compiled
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.CoreCompileInputs.cache
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.CopyComplete
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.exe
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.pdb
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe.manifest
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.application
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.exe.manifest
+D:\Học Tập\Hk 5\.Net\DoAn\Update\ver2\DoAn_DotNet\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.application
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe.config
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.exe
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.pdb
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe.manifest
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.application
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.exe
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\DoAn_DotNet.pdb
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csprojResolveAssemblyReference.cache
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietDonHang.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ChiTietSanPham.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DangNhap.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.DonHang1.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.FormRP.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmQLTK.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemKH.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemNV.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThemTTCN.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.frmThongKe.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Frm_NhanVien.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.HomeForm.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Kho.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhaCungCap.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.NhapKho.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.Properties.Resources.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.QuangCao.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.SanPham.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.ViTriCuaHang.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.XuatKho.resources
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.csproj.GenerateResource.Cache
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\RdlCompile.cache
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\RdlCompile.compiled
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.exe.manifest
+D:\CN.net\DoAn_DotNet\DoAn_DotNet\obj\Debug\DoAn_DotNet.application
